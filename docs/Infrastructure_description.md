@@ -28,4 +28,3 @@ The application is separated into 2 apps ,  the  `udagram/udagram-frontend` for 
 ![screenshot](Screenshots/envva.png)
 ![screenshot](Screenshots/pipeline.png)
 ![screenshot](Screenshots/build.png)
-![screenshot](Screenshots/deploy.png)
