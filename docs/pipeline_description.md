@@ -1,5 +1,10 @@
 # Pipeline
 
+
+### Structure 
+
+![Screenshot](./Screenshots/pipediagarm.png)
+
 ### 1-  Build
 
 - Install Node
